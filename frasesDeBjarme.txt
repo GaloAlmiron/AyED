@@ -1,0 +1,6 @@
+hola a todos
+Cantida de palabras: 3
+--------------
+como estan
+Cantida de palabras: 2
+------------
