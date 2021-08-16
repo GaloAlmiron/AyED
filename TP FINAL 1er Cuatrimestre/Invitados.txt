@@ -1,0 +1,15 @@
+
+Nombre: 
+Apellido: 
+Confirmacion: 
+Nro ticket: 0
+
+Nombre: 54
+Apellido: 1
+Confirmacion: si
+Nro ticket: 1501
+
+Nombre: 45
+Apellido: 6
+Confirmacion: no
+Nro ticket: 1502
